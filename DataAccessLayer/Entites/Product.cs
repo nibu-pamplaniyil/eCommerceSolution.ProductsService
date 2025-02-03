@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
 
-namespace DataAccessLayer.Entites;
+namespace eCommerce.DataAccessLayer.Entites;
 public class Product
 {
     [Key]
